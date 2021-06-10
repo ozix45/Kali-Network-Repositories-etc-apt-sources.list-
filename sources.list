@@ -1,0 +1,14 @@
+
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+
+deb http://http.kali.org/kali kali-last-snapshot main non-free contrib
+
+deb http://http.kali.org/kali kali-experimental main non-free contrib
+
+deb http://ftp.debian.org/debian/ stretch main contrib non-free
+
+deb http://security.kali.org/ kali/updates main contrib non-free
+deb-src http://security.kali.org/ kali/updates main contrib non-free
+
+
+
